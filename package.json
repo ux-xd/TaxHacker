@@ -85,6 +85,9 @@
     "vitest": "^4.1.10"
   },
   "overrides": {
+    "better-auth": {
+      "zod": "4.6.6"
+    },
     "react-day-picker": {
       "react": "^19.0.0"
     },
